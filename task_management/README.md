@@ -7,7 +7,7 @@ Task Management Flutter project 🚀.
 ###### Download the project from Repo
 
 ```
-git clone 
+git clone https://github.com/AgnelSelvan/Flutter-UI-Template.git
 ```
 
 ```dart
@@ -18,7 +18,7 @@ flutter run
 
 ### Looks 👀
 
-<img src="/outputs/op.gif">
-<img src="/outputs/1.png">
-<img src="/outputs/2.png">
-<img src="/outputs/3.png">
+<img src="outputs/op.gif">
+<img src="outputs/1.png">
+<img src="outputs/2.png">
+<img src="outputs/3.png">
