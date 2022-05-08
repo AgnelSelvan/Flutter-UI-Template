@@ -149,12 +149,16 @@ class _HomeScreenState extends State<HomeScreen> {
     return Row(
       mainAxisAlignment: MainAxisAlignment.spaceBetween,
       children: [
-        Text(
+        SelectableText(
           "My Task",
           style: TextStyle(
             color: Colors.blueGrey[900],
             fontWeight: FontWeight.w700,
             fontSize: 24,
+          ),
+          toolbarOptions: const ToolbarOptions(
+            copy: true,
+            selectAll: true,
           ),
         ),
         IconButton(
